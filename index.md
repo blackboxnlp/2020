@@ -42,9 +42,11 @@ The programme and proceedings of the previous editions, which were held at EMNLP
 
 ## Organizers
 
-### Grzegorz Chrupała
-Grzegorz Chrupała (g.chrupala@uvt.nl) is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
-multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first edition of BlackboxNLP.
+### Afra Alishahi
+Afra Alishahi (a.alishahi@uvt.nl) is an Associate Professor of Cognitive Science and Artificial Intelligence at Tilburg University, the Netherlands. 
+Her main research interest is developing computational models for studying the process of human language acquisition. 
+Recently she has been studying the emergence of linguistic structure in grounded models of language learning. 
+She has chaired CoNLL 2015, and organized the EACL Workshop on Cognitive Aspects of Computational Language Acquisition in 2009, and co-organized the first edition of BlackboxNLP.
 
 ### Yonatan Belinkov
 Yonatan Belinkov (belinkov@seas.harvard.edu) is a Postdoctoral Fellow at the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). 
@@ -52,12 +54,26 @@ His recent research focuses on representations of language in neural network mod
 His research has been published at ACL, EMNLP, TACL, ICLR, and NeurIPS. 
 His PhD dissertation at MIT analyzed internal language representations in deep learning models. 
 
+### Grzegorz Chrupała
+Grzegorz Chrupała (g.chrupala@uvt.nl) is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
+multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first edition of BlackboxNLP.
+
 ### Dieuwke Hupkes
 Dieuwke Hupkes (d.hupkes@uva.nl) is a PhD student at the University of Amsterdam.
 The main focus of her research is understanding how recurrent neural networks can understand and learn the structures that occur in natural language.
 Developing methods to interpret and interact with neural networks has therefore been an important area of focus in her research.
 She authored 5 articles directly relevant to the workshop, one of them published in a top AI journal (Journal of Artificial Intelligence), and she is co-organizing a workshop on compositionality, neural networks, and the brain to be held at the Lorentz Center in the summer of 2019.
 
+### Yuval Pinter
+Yuval Pinter (uvp@gatech.edu) is a PhD student at Georgia Institute of Technology. 
+His main focus is on word-level representations in deep learning systems. 
+He authored two papers on the topic of NLP neural model interpretation in the last year, one of them presented at BlackboxNLP.
+In addition to regularly serving on program committees for NLP and AI venues, he co-organized the TREC LiveQA competition for its three years of existence (2015--2017) including administering the real-time challenge, and served as publicity and social media co-chair at NAACL 2019.
+
+### Hassan Sad 
+Hassan Sad (hsad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
+His recent research focuses on developing methods to analyze and interpret neural network models both at the representation-level and at the individual neuron-level. 
+His work on the analysis of deep models is recognized at various prestigious research venues such as ACL, NAACL, ICLR, and AAAI.  
 
 ## Important dates
 
@@ -77,52 +93,54 @@ TBA
 
 ## Program committee
 
- - 	Samira Abnar 
- - 	Željko Agić 
- - 	Afra Alishahi 
- - 	Antonios Anastasopoulos 
- - 	Niranjan Balasubramanian 
- - 	Joost Bastings 
- - 	Lisa Beinborn 
- - 	Laurent Besacier 
- - 	Or Biran 
- - 	Samuel R. Bowman 
- - 	Stergios Chatzikyriakidis 
- - 	Miryam de Lhoneux 
- - 	Ewan Dunbar 
- - 	Jacob Eisenstein 
- - 	Allyson Ettinger 
- - 	Antske Fokkens 
- - 	Robert Frank 
- - 	Richard Futrell 
- - 	Sharon Goldwater 
- - 	Kristina Gulordava 
- - 	David Harwath 
- - 	Germán Kruszewski 
- - 	Yair Lakretz 
- - 	Shalom Lappin 
- - 	Jindřich Libovický 
- - 	Nelson F. Liu 
- - 	Pranava Madhyastha 
- - 	David Mareček 
- - 	Paola Merlo 
- - 	Raymond Mooney 
- - 	Sebastian Padó 
- - 	Yves Peirsman 
- - 	Adam Poliak 
- - 	Rudolf Rosa 
- - 	Carolyn Rose 
- - 	Hassan Sajjad 
- - 	Wojciech Samek 
- - 	Naomi Saphra 
- - 	Rico Sennrich 
- - 	Pia Sommerauer 
- - 	György Szaszák 
- - 	Francesca Toni 
- - 	Adina Williams 
- - 	Roberto Zamparelli 
- - 	Fabio Massimo Zanzotto 
- - 	Willem Zuidema 
+ - Samira Abnar 
+ - Željko Agić 
+ - Antonios Anastasopoulos 
+ - Leia Arras - Fraunhofer Heinrich Hertz Institute
+ - Joost Bastings - University of Amsterdam
+ - Lisa Beinborn - University of Amsterdam
+ - Laurent Besacier - Laboratoire d'Informatique de Grenoble
+ - Stergios Chatzikyriakidis - University of Gotheburg
+ - Barry Devereux - Queen's University
+ - Ewan Dunbar - Université Paris Diderot
+ - Allyson Ettinger - University of Chicago
+ - Antske Fokkens - Vrije Universiteit Amsterdam
+ - Robert Frank - Yale University
+ - Alexander Fraser - LMU Munich
+ - Richard Futrell - University of California, Irvine 
+ - Sebastian Gerhmann - Harvard University
+ - Kristina Gulordava - University Pompeu Fabra
+ - David Harwath - MIT 
+ - John Hewitt - Stanford University
+ - Cassandra Jacobs - University of Wisconsin
+ - Yair Lakretz - NeuroSpin
+ - Shalom Lappin - University of Gothenburg
+ - Miryam de Lhoneux    - Uppsala University
+ - Tal Linzen - Johns Hopkins University
+ - Nelson F. Liu - University of Washington
+ - Pranava Madhyastha - Imperial College London
+ - Arya McCarthy - Johns Hopkins University
+ - Paola Merlo - University of Geneva
+ - Raymond Mooney - UT AUstin %University of Texas at Austin 
+ - Joakim Nivre - Uppsala University
+ - Sebastian Padó - University of Stuttgart
+ - Ellie Pavlick - Brown University
+ - Rudolf Rosa - Charles University
+ - Carolyn Rose - CMU %Carnegie Mellon University
+ - Sebastian Ruder - DeepMind
+ - Wojciech Samek - Fraunhofer Heinrich Hertz Institute
+ - Naomi Saphra - University of Edinburgh
+ - Sabine Schulte im Walde - University of Stuttgart
+ - Rico Sennrich - University of Zurich
+ - Pia Sommerauer - Vrije Universiteit Amsterdam
+ - Ivan Titov - University of Edinburgh
+ - Francesca Toni - Imperial College London
+ - Reut Tsarfaty - Open University
+ - Sarah Wiegreffe -  Georgia Tech
+ - Adina Williams - New York University
+ - Diyi Yang - Georgia Tech
+ - Fabio Massimo Zanzotto - University of Rome
+ - Willem Zuidema - University of Amsterdam
 
 ## Anti-Harassment Policy
 BlackboxNLP 2019 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
