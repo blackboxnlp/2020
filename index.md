@@ -62,7 +62,7 @@ multilayer neural networks. His work has appeared in venues such as *Computation
 Dieuwke Hupkes (d.hupkes@uva.nl) is a PhD student at the University of Amsterdam.
 The main focus of her research is understanding how recurrent neural networks can understand and learn the structures that occur in natural language.
 Developing methods to interpret and interact with neural networks has therefore been an important area of focus in her research.
-She authored 5 articles directly relevant to the workshop, one of them published in a top AI journal (Journal of Artificial Intelligence), and she is co-organizing a workshop on compositionality, neural networks, and the brain to be held at the Lorentz Center in the summer of 2019.
+She authored 5 articles directly relevant to the workshop, one of them published in a top AI journal (Journal of Artificial Intelligence), and she is co-organizing a workshop on compositionality, neural networks, and the brain, held at the Lorentz Center in the summer of 2019.
 
 ### Yuval Pinter
 Yuval Pinter (uvp@gatech.edu) is a PhD student at Georgia Institute of Technology. 
