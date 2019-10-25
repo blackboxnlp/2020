@@ -1,4 +1,16 @@
-## BlackboxNLP 2020
+# Venue
+
+The workshop will be collocated with EMNLP 2020
+
+## Important dates (tentative)
+
+- July 15, 2020 -- Submission deadline.
+- August 17, 2020 -- Notification of acceptance.
+- August 31, 2020 -- Camera-ready papers due.
+- November 11 or 12 -- Workshop.
+
+ 
+## Workshop description
 
 Neural networks have rapidly become a central component in NLP systems in
 the last few years. The improvement in accuracy and performance brought by
@@ -74,10 +86,6 @@ In addition to regularly serving on program committees for NLP and AI venues, he
 Hassan Sajjadd (hsajjad@@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
 His recent research focuses on developing methods to analyze and interpret neural network models both at the representation-level and at the individual neuron-level. 
 His work on the analysis of deep models is recognized at various prestigious research venues such as ACL, NAACL, ICLR, and AAAI.  
-
-## Important dates
-
-TBA
 
 ## Workshop program 
 
