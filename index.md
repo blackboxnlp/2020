@@ -79,8 +79,8 @@ She authored 5 articles directly relevant to the workshop, one of them published
 ### Yuval Pinter
 Yuval Pinter (uvp@gatech.edu) is a PhD student at Georgia Institute of Technology. 
 His main focus is on word-level representations in deep learning systems. 
-He authored two papers on the topic of NLP neural model interpretation in the last year, one of them presented at BlackboxNLP.
-In addition to regularly serving on program committees for NLP and AI venues, he co-organized the TREC LiveQA competition for its three years of existence (2015--2017) including administering the real-time challenge, and served as publicity and social media co-chair at NAACL 2019.
+He authored two papers on the topic of NLP neural model interpretation in 2019, including one at BlackboxNLP.
+In addition to regularly serving on program committees for NLP and AI venues, he co-organized the TREC LiveQA competition for its three years of existence (2015--2017), and served as publicity and social media co-chair at NAACL 2019.
 
 ### Hassan Sajjad 
 Hassan Sajjadd (hsajjad@@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
@@ -94,6 +94,10 @@ TBA
 ## Invited speakers
 
 TBA
+
+## Shared Interpretation Mission
+
+BlackboxNLP 2020 will include a shared interpretation mission. Details TBA.
 
 ## Submission
 
