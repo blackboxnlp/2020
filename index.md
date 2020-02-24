@@ -97,7 +97,7 @@ TBA
 
 ## Shared Interpretation Mission
 
-BlackboxNLP 2020 will include a shared interpretation mission. Details TBA.
+BlackboxNLP 2020 will include a shared interpretation mission. Details available [here](https://blackboxnlp.github.io/shared).
 
 ## Submission
 
