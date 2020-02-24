@@ -52,6 +52,8 @@ valid?
 BlackboxNLP 2020 is the third BlackboxNLP workshop. 
 The programme and proceedings of the previous editions, which were held at EMNLP 2018 and ACL 2019, can be found [here](https://blackboxnlp.github.io/2018/) and [here](https://blackboxnlp.github.io/2019/).
 
+The call for papers text is available [here](http://blackboxnlp.github.io/cfp).
+
 ## Organizers
 
 ### Afra Alishahi
