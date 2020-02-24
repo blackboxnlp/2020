@@ -26,11 +26,12 @@ This year, we especially encourage submissions that compare multiple techniques 
 ## Submissions
 
 We call for two types of papers:
-1) Archival papers. These are papers reporting on completed, original and unpublished research, with a maximum length of 8 pages + references. Papers shorter than this maximum are also welcome. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized.
-1) Extended abstracts. These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized.
+
+1. Archival papers. These are papers reporting on completed, original and unpublished research, with a maximum length of 8 pages + references. Papers shorter than this maximum are also welcome. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized.
+1. Extended abstracts. These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized.
 
 Submissions should follow the official EMNLP 2020 style guidelines. We will soon make the submission link available through the workshop website:
-https://blackboxnlp.github.io
+[https://blackboxnlp.github.io](https://blackboxnlp.github.io)
 
 
 ## Shared Interpretation Mission
