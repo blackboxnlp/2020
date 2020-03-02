@@ -1,6 +1,6 @@
 # The BlackboxNLP 2020 Shared Interpretation Mission
 
-The 2020 BlackboxNLP workshop on Analyzing and interpreting Neural Networks for NLP will include, for the first time, a shared interpretation mission. This is an event designed based on shared tasks. However, its goal is not to find a best-performing system for a well-defined problem but rather to encourage the development of useful, creative analysis techniques that would help us better understand existing models.
+The 2020 BlackboxNLP workshop on Analyzing and Interpreting Neural Networks for NLP will include, for the first time, a shared interpretation mission. This is an event designed based on shared tasks. However, its goal is not to find a best-performing system for a well-defined problem but rather to encourage the development of useful, creative analysis techniques that would help us better understand existing models.
 
 ## Description
 
