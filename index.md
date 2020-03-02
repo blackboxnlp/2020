@@ -2,7 +2,7 @@
 
 The workshop will be collocated with EMNLP 2020.
 
-**News (March 2): Development models for the shared task have been [annuonced](http://blackboxnlp.github.io/shared).**
+**News (March 2): Development models for the shared task have been [announced](http://blackboxnlp.github.io/shared).**
 
 ## Important dates (tentative)
 
