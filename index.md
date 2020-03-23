@@ -103,7 +103,7 @@ TBA
 
 BlackboxNLP 2020 will include a shared interpretation mission. Details available [here](https://blackboxnlp.github.io/shared).
 
-## Submission
+## Paper submission 
 
 We accept two types of papers
 
@@ -113,7 +113,7 @@ We accept two types of papers
 
 Both papers and abstracts should follow the official EMNLP 2020 style guidelines and should be submitted via softconf:
 
-<a>https://www.softconf.com/emnlp2020/blackboxnlp2020/</a>
+[https://www.softconf.com/emnlp2020/blackboxnlp2020/](https://www.softconf.com/emnlp2020/blackboxnlp2020/)
 
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
