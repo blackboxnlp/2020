@@ -105,7 +105,17 @@ BlackboxNLP 2020 will include a shared interpretation mission. Details available
 
 ## Submission
 
-TBA
+We accept two types of papers
+
+- <b>Archival papers</b>. These are papers reporting on completed, original and unpublished research, with maximum length of 8 pages + references. Papers shorter than this maximum are also welcome. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized. Archival papers will be included in the workshop proceedings and the ACL anthology.
+
+- <b>Extended abstracts</b>. These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized. Abstracts will be posted on the workshop website but will not be included in the proceedings.
+
+Both papers and abstracts should follow the official EMNLP 2020 style guidelines and should be submitted via softconf:
+
+<a>https://www.softconf.com/emnlp2020/blackboxnlp2020/</a>
+
+Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
 ## Program committee
 
