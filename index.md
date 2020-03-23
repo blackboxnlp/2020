@@ -122,7 +122,7 @@ Accepted submissions will be presented at the workshop: most as posters, some as
  - Samira Abnar 
  - Željko Agić 
  - Antonios Anastasopoulos 
- - Leia Arras - Fraunhofer Heinrich Hertz Institute
+ - Leila Arras - Fraunhofer Heinrich Hertz Institute
  - Joost Bastings - University of Amsterdam
  - Lisa Beinborn - University of Amsterdam
  - Laurent Besacier - Laboratoire d'Informatique de Grenoble
