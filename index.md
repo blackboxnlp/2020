@@ -134,7 +134,7 @@ Accepted submissions will be presented at the workshop: most as posters, some as
  - Robert Frank - Yale University
  - Alexander Fraser - LMU Munich
  - Richard Futrell - University of California, Irvine 
- - Sebastian Gerhmann - Harvard University
+ - Sebastian Gehrmann - Harvard University
  - Kristina Gulordava - University Pompeu Fabra
  - David Harwath - MIT 
  - John Hewitt - Stanford University
