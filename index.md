@@ -9,7 +9,7 @@ The workshop will be collocated with EMNLP 2020.
 - July 15, 2020 -- Submission deadline.
 - August 17, 2020 -- Notification of acceptance.
 - August 31, 2020 -- Camera-ready papers due.
-- November 11 or 12 -- Workshop.
+- November 20, 2020 -- Workshop.
 
  
 ## Workshop description
