@@ -38,4 +38,4 @@ An FAQ with further details is available [here](https://blackboxnlp.github.io/fa
 * July 21 - "test" models announced
 * August 4 - report + code submission
 * August 31 - camera-ready deadline (no substantial changes allowed from Aug 4 version)
-* November 11 or 12, 2020 - Workshop and winner(s) announcement
+* November 20, 2020 - Workshop and winner(s) announcement
