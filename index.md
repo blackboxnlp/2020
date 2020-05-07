@@ -4,13 +4,13 @@ The workshop will be collocated with EMNLP 2020.
 
 **News (March 2): Development models for the shared task have been [announced](http://blackboxnlp.github.io/shared).**
 
-## Important dates (tentative)
+## Important dates (updated!)
 
-- July 15, 2020 -- Submission deadline.
-- August 17, 2020 -- Notification of acceptance.
-- August 31, 2020 -- Camera-ready papers due.
+- August 15, 2020 -- Submission deadline.
+- September 20, 2020 -- Retraction of workshop papers accepted for EMNLP.
+- September 29, 2020 -- Notification of acceptance.
+- October 10, 2020 -- Camera-ready papers due.
 - November 20, 2020 -- Workshop.
-
  
 ## Workshop description
 
