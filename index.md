@@ -117,6 +117,11 @@ Both papers and abstracts should follow the official EMNLP 2020 style guidelines
 
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
+## Dual submissions
+Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper's main conference submission id.
+The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated.
+Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 15.
+
 ## Program committee
 
  - Samira Abnar 
@@ -169,4 +174,4 @@ Accepted submissions will be presented at the workshop: most as posters, some as
  - Willem Zuidema - University of Amsterdam
 
 ## Anti-Harassment Policy
-BlackboxNLP 2019 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
+BlackboxNLP 2020 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).

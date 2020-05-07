@@ -2,7 +2,6 @@
 
 BlackboxNLP 2020 is the third BlackboxNLP workshop. The programme and proceedings of the previous editions, which were held at EMNLP 2018 and ACL 2019, can be found [here](https://blackboxnlp.github.io/2018) and [here](https://blackboxnlp.github.io/2019).
 
-
 ## Workshop description
 
 Neural networks have rapidly become a central component in NLP systems in the last few years. The improvement in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: How do we assess what the representations and computations are that the network learns? The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics, and neuroscience.
@@ -30,9 +29,14 @@ We call for two types of papers:
 1. Archival papers. These are papers reporting on completed, original and unpublished research, with a maximum length of 8 pages + references. Papers shorter than this maximum are also welcome. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized.
 1. Extended abstracts. These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized.
 
-Submissions should follow the official EMNLP 2020 style guidelines. We will soon make the submission link available through the workshop website:
-[https://blackboxnlp.github.io](https://blackboxnlp.github.io)
+Both papers and abstracts should follow the official EMNLP 2020 style guidelines and should be submitted via softconf:
 
+[https://www.softconf.com/emnlp2020/blackboxnlp2020/](https://www.softconf.com/emnlp2020/blackboxnlp2020/)
+
+## Dual submissions
+Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper's main conference submission id.
+The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated.
+Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 15.
 
 ## Shared Interpretation Mission
 
@@ -41,10 +45,11 @@ BlackboxNLP 2020 will feature the first edition of the Shared Interpretation Mis
 
 ## Important dates
 
-* July 15, 2020 – Workshop Paper submission deadline.
+* August 15, 2020 -- Submission deadline.
 * August 4, 2020 - Shared Mission Report Submission deadline.
-* August 17, 2020 – Notification of acceptance.
-* August 31, 2020 – Camera-ready papers due.
-* November 11 or 12 – Workshop
+* September 20, 2020 -- Retraction of workshop papers accepted for EMNLP.
+* September 29, 2020 -- Notification of acceptance.
+* October 10, 2020 -- Camera-ready papers due.
+* November 20, 2020 -- Workshop.
 
 Note: All deadlines are 11:59PM UTC-12:00.
