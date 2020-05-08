@@ -8,6 +8,7 @@ The workshop will be collocated with EMNLP 2020.
 
 - August 15, 2020 -- Submission deadline.
 - September 20, 2020 -- Retraction of workshop papers accepted for EMNLP.
+- September 21, 2020 -- Shared task submission deadline
 - September 29, 2020 -- Notification of acceptance.
 - October 10, 2020 -- Camera-ready papers due.
 - November 20, 2020 -- Workshop.

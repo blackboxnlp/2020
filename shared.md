@@ -34,8 +34,8 @@ An FAQ with further details is available [here](https://blackboxnlp.github.io/fa
 ## Timeline
 
 * March 2, 2020 - "dev" models announced
-* July 14 - API submission deadline for *full generalizability* eligibility
-* July 21 - "test" models announced
-* August 4 - report + code submission
-* August 31 - camera-ready deadline (no substantial changes allowed from Aug 4 version)
+* August 14 - API submission deadline for *full generalizability* eligibility
+* September 2 - "test" models announced
+* September 21 - report + code submission
+* October 10 - camera-ready deadline (no substantial changes allowed from Sept 21 version)
 * November 20, 2020 - Workshop and winner(s) announcement
