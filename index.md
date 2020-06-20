@@ -121,7 +121,7 @@ Accepted submissions will be presented at the workshop: most as posters, some as
 ## Dual submissions
 Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper's main conference submission id.
 The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated.
-Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 15.
+Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 20.
 
 ## Program committee
 
