@@ -72,8 +72,8 @@ His research has been published at ACL, EMNLP, TACL, ICLR, and NeurIPS.
 His PhD dissertation at MIT analyzed internal language representations in deep learning models. 
 
 ### Grzegorz Chrupała
-Grzegorz Chrupała (g.chrupala@uvt.nl) is an Assistant Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
-multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first edition of BlackboxNLP.
+Grzegorz Chrupała (g.chrupala@uvt.nl) is an Associate Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
+multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first two editions of BlackboxNLP.
 
 ### Dieuwke Hupkes
 Dieuwke Hupkes (d.hupkes@uva.nl) is a PhD student at the University of Amsterdam.
