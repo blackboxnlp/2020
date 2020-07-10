@@ -129,7 +129,7 @@ Authors of dual-submission papers accepted to the main conference should retract
  - Željko Agić 
  - Antonios Anastasopoulos 
  - Leila Arras - Fraunhofer Heinrich Hertz Institute
- - Joost Bastings - University of Amsterdam
+ - Jasmijn Bastings - Google
  - Lisa Beinborn - University of Amsterdam
  - Laurent Besacier - Laboratoire d'Informatique de Grenoble
  - Stergios Chatzikyriakidis - University of Gotheburg
