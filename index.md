@@ -98,7 +98,14 @@ TBA
 
 ## Invited speakers
 
-TBA
+### Idan Blank, UCLA 
+*Understanding NLP’s blackbox with the brain’s blackbox and vice versa*
+
+This talk will propose a bi-directional link between artificial and biological language processing mechanisms, demonstrating that each can be used as a tool for studying the other. First, I will ask: given what we know about language processing in the human brain and mind, what would success in artificial NLP look like? Specifically, I will focus on dissociations between language and the rest of high-level cognition to significantly narrow the space of “reasonable expectations” we should pose to language models. Next, I will ask: could state-of-the-art NLP systems provide a decent model of the human brain? Here, I will describe promising work demonstrating that some NLP systems can accurately predict brain responses to linguistic stimuli, and offer initial clues into what might drive such brain-machine correspondence.
+
+### Roger Levy, MIT
+
+### Anna Rogers, University of Copenhagen
 
 ## Shared Interpretation Mission
 
