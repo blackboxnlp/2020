@@ -106,6 +106,9 @@ This talk will propose a bi-directional link between artificial and biological l
 ### Roger Levy, MIT
 
 ### Anna Rogers, University of Copenhagen
+*When BERT plays the lottery, all tickets are winning!*
+
+The lottery ticket hypothesis was originally developed for randomly initialized models, but might it also apply to pre-trained Transformers? If the "good" subnetworks exist, can they tell us anything about how BERT achieves its performance? 
 
 ## Shared Interpretation Mission
 
