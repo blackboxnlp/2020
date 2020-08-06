@@ -76,8 +76,8 @@ Grzegorz Chrupała (g.chrupala@uvt.nl) is an Assistant Professor at the Departme
 multilayer neural networks. His work has appeared in venues such as *Computational Linguistics*, ACL, EMNLP and CoNLL. He has served as area chair for ACL, EMNLP and CoNLL and he co-organized the first edition of BlackboxNLP.
 
 ### Dieuwke Hupkes
-Dieuwke Hupkes (d.hupkes@uva.nl) is a PhD student at the University of Amsterdam.
-The main focus of her research is understanding how recurrent neural networks can understand and learn the structures that occur in natural language.
+Dieuwke Hupkes (d.hupkes@uva.nl) is a Postdoc at the University of Amsterdam, supported by the [ELLIS society](https://ellis.eu/).
+The main focus of her research is understanding how neural networks can understand and learn the structures that occur in natural language.
 Developing methods to interpret and interact with neural networks has therefore been an important area of focus in her research.
 She authored 5 articles directly relevant to the workshop, one of them published in a top AI journal (Journal of Artificial Intelligence), and she is co-organizing a workshop on compositionality, neural networks, and the brain, held at the Lorentz Center in the summer of 2019.
 
