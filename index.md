@@ -66,10 +66,11 @@ Recently she has been studying the emergence of linguistic structure in grounded
 She has chaired CoNLL 2015, and organized the EACL Workshop on Cognitive Aspects of Computational Language Acquisition in 2009, and co-organized the first edition of BlackboxNLP.
 
 ### Yonatan Belinkov
-Yonatan Belinkov (belinkov@seas.harvard.edu) is a Postdoctoral Fellow at the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). 
-His recent research focuses on representations of language in neural network models, with applications in machine translation and speech recognition. 
-His research has been published at ACL, EMNLP, TACL, ICLR, and NeurIPS. 
-His PhD dissertation at MIT analyzed internal language representations in deep learning models. 
+Yonatan Belinkov (belinkov@technion.ac.il) is an Assistant Professor at the Technion Department of Computer Science. He has previously been a postdoc at the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). 
+His research focuses on interpretability and robustness of neural network models of human language. 
+His research has been published at venues such as ACL, EMNLP, NAACL, TACL, ICLR, and NeurIPS. 
+He serves or has served as an area chair for ACL, EMNLP, and CoNLL, and co-organized the second edition of BlackboxNLP. 
+His PhD dissertation at MIT analyzed internal language representations in deep learning models, with applications in machine translation and speech recognition. 
 
 ### Grzegorz Chrupała
 Grzegorz Chrupała (g.chrupala@uvt.nl) is an Associate Professor at the Department of Cognitive Science and Artificial Intelligence at Tilburg University. His research focuses on computational models of language learning from multimodal signals such as speech and vision and on the analysis and interpretability of representations emerging in
