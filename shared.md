@@ -31,6 +31,13 @@ The models for the development phase are:
 
 An FAQ with further details is available [here](https://blackboxnlp.github.io/faq).
 
+## Submission details
+
+* Anonymity: mission materials and reports are **not anonymous**. Feel free to submit code with an affiliated repository and to submit your report including all authors and affiliations in the body of the pdf.
+* Report submission is to be made via the [main workshop softconf page](https://www.softconf.com/emnlp2020/blackboxnlp2020/). Select “Shared mission submission” when creating a new submission.
+* Code, auxiliary materials, and outputs may be submitted via the same page. We encourage submission of this material as links to repositories and filedrop services under the dedicated text field, but if that’s not possible for any reason we also accept additional material submission as a .zip file.
+  * Participants wishing to submit this material before test models are announced on **September 2** (in order to qualify for the reproducibility credit) may send a link to the [mission email address](mailto:blackboxnlp+shared@googlegroups.com) (we’ll send a receipt). The linked website should include sufficient documentation for reproduction by mission organizers and outputs for the dev models.
+
 ## Timeline
 
 * March 2, 2020 - "dev" models announced
