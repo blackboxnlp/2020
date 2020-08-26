@@ -129,10 +129,13 @@ Both papers and abstracts should follow the official EMNLP 2020 style guidelines
 
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
-## Dual submissions
+## Dual submissions and preprints 
 Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper's main conference submission id.
 The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated.
 Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 20.
+
+Papers posted to preprint servers such as arxiv can be submitted
+without any restrictions on when they were posted.
 
 ## Program committee
 
