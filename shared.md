@@ -17,6 +17,13 @@ The models for the development phase are:
 * **xlnet-base-cased**
 * **xlm-mlm-xnli15-1024**
 
+## Test Models
+
+The models for the test phase are:
+
+* **distilroberta-base**
+* **bert-base-japanese**
+
 ## Research Agenda
 
 1. What factors determine the extent to which models learn different language properties?
@@ -36,14 +43,14 @@ An FAQ with further details is available [here](https://blackboxnlp.github.io/fa
 * Anonymity: mission materials and reports are **not anonymous**. Feel free to submit code with an affiliated repository and to submit your report including all authors and affiliations in the body of the pdf.
 * Report submission is to be made via the [main workshop softconf page](https://www.softconf.com/emnlp2020/blackboxnlp2020/). Select “Shared mission submission” when creating a new submission.
 * Code, auxiliary materials, and outputs may be submitted via the same page. We encourage submission of this material as links to repositories and filedrop services under the dedicated text field, but if that’s not possible for any reason we also accept additional material submission as a .zip file.
-  * Participants wishing to submit this material before test models are announced on **September 2** (in order to qualify for the generalizability credit) may send a link to the [mission email address](mailto:blackboxnlp+shared@googlegroups.com) (we’ll send a receipt). The linked website should include sufficient documentation for reproduction by mission organizers and outputs for the dev models.
+* Participants wishing to submit this material before test models are announced on **September 2** (in order to qualify for the generalizability credit) may send a link to the [mission email address](mailto:blackboxnlp+shared@googlegroups.com) (we’ll send a receipt). The linked website should include sufficient documentation for reproduction by mission organizers and outputs for the dev models.
 
 ## Timeline
 
 * March 2, 2020 - "dev" models announced
 * ~~August 14 - API submission deadline for *full generalizability* eligibility~~
   * This deadline is eliminated. Any system ready before test model announcement will qualify.
-* September 2 - "test" models announced
+* ~~September 2 - "test" models announced
 * September 21 - report + code submission
 * October 10 - camera-ready deadline (no substantial changes allowed from Sept 21 version)
 * November 20, 2020 - Workshop and winner(s) announcement

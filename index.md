@@ -2,7 +2,7 @@
 
 The workshop will be collocated with EMNLP 2020.
 
-**News (March 2): Development models for the shared task have been [announced](http://blackboxnlp.github.io/shared).**
+**News (Sept. 2): Test models for the shared task have been [announced](http://blackboxnlp.github.io/shared).**
 
 ## Important dates (updated!)
 
@@ -89,7 +89,7 @@ He authored two papers on the topic of NLP neural model interpretation in 2019, 
 In addition to regularly serving on program committees for NLP and AI venues, he co-organized the TREC LiveQA competition for its three years of existence (2015--2017), and served as publicity and social media co-chair at NAACL 2019.
 
 ### Hassan Sajjad 
-Hassan Sajjadd (hsajjad@@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
+Hassan Sajjadd (hsajjad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
 His recent research focuses on developing methods to analyze and interpret neural network models both at the representation-level and at the individual neuron-level. 
 His work on the analysis of deep models is recognized at various prestigious research venues such as ACL, NAACL, ICLR, and AAAI.  
 
