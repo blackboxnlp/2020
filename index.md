@@ -105,6 +105,14 @@ TBA
 This talk will propose a bi-directional link between artificial and biological language processing mechanisms, demonstrating that each can be used as a tool for studying the other. First, I will ask: given what we know about language processing in the human brain and mind, what would success in artificial NLP look like? Specifically, I will focus on dissociations between language and the rest of high-level cognition to significantly narrow the space of “reasonable expectations” we should pose to language models. Next, I will ask: could state-of-the-art NLP systems provide a decent model of the human brain? Here, I will describe promising work demonstrating that some NLP systems can accurately predict brain responses to linguistic stimuli, and offer initial clues into what might drive such brain-machine correspondence.
 
 ### Roger Levy, MIT
+*Evaluating and calibrating neural language models for human-like language processing*
+
+With new architectures, larger datasets, and greater computational power, neural language models are getting better and better at the tasks they’re trained for and at offering out-of-the-box representations that can be fine-tuned for high performance in new tasks.  
+But are they getting more and more human-like?  
+Here we use linguistic theory and experimental methods inspired by psycholinguistic research to assess zero- and few-shot performance of contemporary neural models on a range of signature human-like language understanding behaviors.  
+While we find impressive successes by models trained on large quantities of text alone, we find clear advantages for models with a symbolic component when training data scale is small.  
+We also obtain success in calibrate models for more human-like processing.  
+Our results highlight the value of insights from psycholinguistics and cognitive science for neural language models of the future.
 
 ### Anna Rogers, University of Copenhagen
 *When BERT plays the lottery, all tickets are winning!*
