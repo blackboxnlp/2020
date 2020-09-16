@@ -41,6 +41,20 @@ Similar to the Transformers repository from HuggingFace where one can experiment
 
 We expect participants to submit their interpretation repository (built with dependence on the transformers repository, and possibly other well-established projects). The generalizability credit will be based on how seamlessly one can choose another model and get its interpretation and analysis. We will try all submitted APIs ourselves on the test models before announcing them, ensuring de-facto generalizability and validating reported results. Said APIs must specify all necessary input parameters and output an artifact which can be matched to a clear equivalent present in the participant-submitted report.
 
+##  How long the analysis report should be?
+
+We encourage papers up to 8 pages of content including references. However, shorter papers are welcome too.
+
+
+## Do I need to be able to replicate my results exactly on the test models, what If I fail to generalize, can I still report that and submit, or do I not qualify anymore?
+
+Ideally, you should replicate the analysis performed on the dev models on the test models. However, both positive and negative results are appreciated. For example, if a technique does not generalize to all models, this itself is a good finding to report.
+
+## Can I submit analysis on one test models?
+
+Yes, it is acceptable to analyze a single test model. 
+
+
 Happy analyzing!
 
   BlackboxNLP 2020 organizers
