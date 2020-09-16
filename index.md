@@ -107,12 +107,7 @@ This talk will propose a bi-directional link between artificial and biological l
 ### Roger Levy, MIT
 *Evaluating and calibrating neural language models for human-like language processing*
 
-With new architectures, larger datasets, and greater computational power, neural language models are getting better and better at the tasks they’re trained for and at offering out-of-the-box representations that can be fine-tuned for high performance in new tasks.  
-But are they getting more and more human-like?  
-Here we use linguistic theory and experimental methods inspired by psycholinguistic research to assess zero- and few-shot performance of contemporary neural models on a range of signature human-like language understanding behaviors.  
-While we find impressive successes by models trained on large quantities of text alone, we find clear advantages for models with a symbolic component when training data scale is small.  
-We also obtain success in calibrate models for more human-like processing.  
-Our results highlight the value of insights from psycholinguistics and cognitive science for neural language models of the future.
+With new architectures, larger datasets, and greater computational power, neural language models are getting better and better at the tasks they’re trained for and at offering out-of-the-box representations that can be fine-tuned for high performance in new tasks.  But are they getting more and more human-like?  Here we use linguistic theory and experimental methods inspired by psycholinguistic research to assess zero- and few-shot performance of contemporary neural models on a range of signature human-like language understanding behaviors.  While we find impressive successes by models trained on large quantities of text alone, we find clear advantages for models with a symbolic component when training data scale is small.  We also obtain success in calibrate models for more human-like processing.  Our results highlight the value of insights from psycholinguistics and cognitive science for neural language models of the future.
 
 ### Anna Rogers, University of Copenhagen
 *When BERT plays the lottery, all tickets are winning!*
