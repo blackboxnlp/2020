@@ -140,6 +140,9 @@ Authors of dual-submission papers accepted to the main conference should retract
 Papers posted to preprint servers such as arxiv can be submitted
 without any restrictions on when they were posted.
 
+## Camera-ready information
+Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages. 
+
 ## Program committee
 
  - Samira Abnar 
