@@ -19,10 +19,25 @@ The workshop will be collocated with EMNLP 2020.
 BlackboxNLP2020 will be held virtually.
 To promote accessibility across timezones, all talks and posters will be presented twice.
 
-| Session                   | Time                                                                      |
-|                           | US West coast (UTC-8) | Punta Cana (UTC-4) | London (UTC) | China (UTC+8) |
-|-------------------------------------------------------------------------------------------------------|
-| Opening remarks           | 00:00 - 00:15         | 4:00 - 4:15        | 8:00-8:15    | 16:00-16:15   |
+| Session                           | Time                                                        |
+|                                   | US West coast | Punta Cana   | London    | China            |
+|                                   | (UTC-8)       | (UTC-4)      | (UTC)     | (UTC+8)          |
+|-------------------------------------------------------------------------------------------------|
+| Opening remarks                   | 00:00 - 00:15 | 4:00 - 4:15  | 8:00 - 8:15  | 16:00 - 16:15 |
+| Keynote speaker 1: Anna Rogers    | 00:15 - 01:00 | 4:15 - 5:00  | 8:15 - 9:00  | 16:15 - 17:00 |
+| Break                                                                                           |
+| Oral presentations 1              | 01:15 - 02:00 | 5:15 - 6:00  | 9:15 - 10:00 | 17:15 - 18:00 |
+| Break                                                                                           |
+| System demonstration              | 02:15 - 02:30 | 6:15 - 6:30  |                              | 
+| Poster session A                  | 02:30 - 04:00 | 6:30 - 8:00  |                              | 
+| Break                                                                                           |
+| Keynote speaker 1 -- repeat       | 04:15 - 05:00 | 8:16 - 9:00  |                              |
+|-------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------|
+| Keynote speaker 2: Roger Levy     | 7:00 - 7:45   | 11:00 - 11:45 |                             |
+
+
+
 
 
 ## Invited speakers
