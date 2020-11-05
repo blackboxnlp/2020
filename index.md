@@ -21,6 +21,7 @@ To promote accessibility across timezones, the programme is divided into three b
 A more detailed version of the programme will be available soon.
 
 ### Block B
+
 | Session                           | Time                                                        |
 |                                   | US West coast | Punta Cana   | London    | China            |
 |                                   | (UTC-8)       | (UTC-4)      | (UTC)     | (UTC+8)          |
@@ -34,12 +35,12 @@ A more detailed version of the programme will be available soon.
 | Poster session A                  | 02:30 - 04:00 | 6:30 - 8:00  |                              | 
 | Break                                                                                           |
 | Keynote speaker 1 -- Anna Rogers  | 04:15 - 05:00 | 8:16 - 9:00  |                              |
-|-------------------------------------------------------------------------------------------------|
 
-### Block B
+### Block C
+
 | Session                           | Time                                                        |
-|                                   | US West coast | Punta Cana   | London    | China            |
-|                                   | (UTC-8)       | (UTC-4)      | (UTC)     | (UTC+8)          |
+|                                   | US West coast | Punta Cana    | London    | China           |
+|                                   | (UTC-8)       | (UTC-4)       | (UTC)     | (UTC+8)         |
 |-------------------------------------------------------------------------------------------------|
 | Keynote speaker 2 -- Roger Levy   | 7:00 - 7:45   | 11:00 - 11:45 |                             |
 | Break                                                                                           |
