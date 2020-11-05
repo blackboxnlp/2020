@@ -16,7 +16,14 @@ The workshop will be collocated with EMNLP 2020.
 
 ## Workshop programme 
 
-TBA
+BlackboxNLP2020 will be held virtually.
+To promote accessibility across timezones, all talks and posters will be presented twice.
+
+| Session                   | Time                                                                      |
+|                           | US West coast (UTC-8) | Punta Cana (UTC-4) | London (UTC) | China (UTC+8) |
+|-------------------------------------------------------------------------------------------------------|
+| Opening remarks           | 00:00 - 00:15         | 4:00 - 4:15        | 8:00-8:15    | 16:00-16:15   |
+
 
 ## Invited speakers
 
