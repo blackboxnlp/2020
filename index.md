@@ -6,13 +6,34 @@ The workshop will be collocated with EMNLP 2020.
 
 ## Important dates (updated!)
 
-- August 15, 2020 -- Submission deadline.
-- September 20, 2020 -- Retraction of workshop papers accepted for EMNLP.
-- September 21, 2020 -- Shared task submission deadline
-- September 29, 2020 -- Notification of acceptance.
-- October 10, 2020 -- Camera-ready papers due.
+- ~~August 15, 2020~~ -- Submission deadline.
+- ~~September 20, 2020~~ -- Retraction of workshop papers accepted for EMNLP.
+- ~~September 21, 2020~~ -- Shared task submission deadline
+- ~~September 29, 2020~~ -- Notification of acceptance.
+- ~~October 10, 2020~~ -- Camera-ready papers due.
 - November 20, 2020 -- Workshop.
- 
+
+
+## Workshop programme 
+
+TBA
+
+## Invited speakers
+
+### Idan Blank, UCLA 
+*Understanding NLP’s blackbox with the brain’s blackbox and vice versa*
+
+This talk will propose a bi-directional link between artificial and biological language processing mechanisms, demonstrating that each can be used as a tool for studying the other. First, I will ask: given what we know about language processing in the human brain and mind, what would success in artificial NLP look like? Specifically, I will focus on dissociations between language and the rest of high-level cognition to significantly narrow the space of “reasonable expectations” we should pose to language models. Next, I will ask: could state-of-the-art NLP systems provide a decent model of the human brain? Here, I will describe promising work demonstrating that some NLP systems can accurately predict brain responses to linguistic stimuli, and offer initial clues into what might drive such brain-machine correspondence.
+
+### Roger Levy, MIT
+*Evaluating and calibrating neural language models for human-like language processing*
+
+With new architectures, larger datasets, and greater computational power, neural language models are getting better and better at the tasks they’re trained for and at offering out-of-the-box representations that can be fine-tuned for high performance in new tasks.  But are they getting more and more human-like?  Here we use linguistic theory and experimental methods inspired by psycholinguistic research to assess zero- and few-shot performance of contemporary neural models on a range of signature human-like language understanding behaviors.  While we find impressive successes by models trained on large quantities of text alone, we find clear advantages for models with a symbolic component when training data scale is small.  We also obtain success in calibrate models for more human-like processing.  Our results highlight the value of insights from psycholinguistics and cognitive science for neural language models of the future.
+
+### Anna Rogers, University of Copenhagen
+*When BERT plays the lottery, all tickets are winning!*
+
+The lottery ticket hypothesis was originally developed for randomly initialized models, but might it also apply to pre-trained Transformers? If the "good" subnetworks exist, can they tell us anything about how BERT achieves its performance? 
 ## Workshop description
 
 Neural networks have rapidly become a central component in NLP systems in
@@ -57,6 +78,36 @@ The programme and proceedings of the previous editions, which were held at EMNLP
 
 The call for papers text is available [here](http://blackboxnlp.github.io/cfp).
 
+## Shared Interpretation Mission
+
+BlackboxNLP 2020 will include a shared interpretation mission. Details available [here](https://blackboxnlp.github.io/shared).
+
+## Paper submission 
+
+We accept two types of papers
+
+- <b>Archival papers</b>. These are papers reporting on completed, original and unpublished research, with maximum length of 8 pages + references. Papers shorter than this maximum are also welcome. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized. Archival papers will be included in the workshop proceedings and the ACL anthology.
+
+- <b>Extended abstracts</b>. These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized. Abstracts will be posted on the workshop website but will not be included in the proceedings.
+
+Both papers and abstracts should follow the official EMNLP 2020 style guidelines and should be submitted via softconf:
+
+[https://www.softconf.com/emnlp2020/blackboxnlp2020/](https://www.softconf.com/emnlp2020/blackboxnlp2020/)
+
+Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
+
+## Dual submissions and preprints 
+Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper's main conference submission id.
+The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated.
+Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 20.
+
+Papers posted to preprint servers such as arxiv can be submitted
+without any restrictions on when they were posted.
+
+## Camera-ready information
+Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages. 
+
+
 ## Organizers
 
 ### Afra Alishahi
@@ -92,56 +143,6 @@ In addition to regularly serving on program committees for NLP and AI venues, he
 Hassan Sajjadd (hsajjad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
 His recent research focuses on developing methods to analyze and interpret neural network models both at the representation-level and at the individual neuron-level. 
 His work on the analysis of deep models is recognized at various prestigious research venues such as ACL, NAACL, ICLR, and AAAI.  
-
-## Workshop program 
-
-TBA
-
-## Invited speakers
-
-### Idan Blank, UCLA 
-*Understanding NLP’s blackbox with the brain’s blackbox and vice versa*
-
-This talk will propose a bi-directional link between artificial and biological language processing mechanisms, demonstrating that each can be used as a tool for studying the other. First, I will ask: given what we know about language processing in the human brain and mind, what would success in artificial NLP look like? Specifically, I will focus on dissociations between language and the rest of high-level cognition to significantly narrow the space of “reasonable expectations” we should pose to language models. Next, I will ask: could state-of-the-art NLP systems provide a decent model of the human brain? Here, I will describe promising work demonstrating that some NLP systems can accurately predict brain responses to linguistic stimuli, and offer initial clues into what might drive such brain-machine correspondence.
-
-### Roger Levy, MIT
-*Evaluating and calibrating neural language models for human-like language processing*
-
-With new architectures, larger datasets, and greater computational power, neural language models are getting better and better at the tasks they’re trained for and at offering out-of-the-box representations that can be fine-tuned for high performance in new tasks.  But are they getting more and more human-like?  Here we use linguistic theory and experimental methods inspired by psycholinguistic research to assess zero- and few-shot performance of contemporary neural models on a range of signature human-like language understanding behaviors.  While we find impressive successes by models trained on large quantities of text alone, we find clear advantages for models with a symbolic component when training data scale is small.  We also obtain success in calibrate models for more human-like processing.  Our results highlight the value of insights from psycholinguistics and cognitive science for neural language models of the future.
-
-### Anna Rogers, University of Copenhagen
-*When BERT plays the lottery, all tickets are winning!*
-
-The lottery ticket hypothesis was originally developed for randomly initialized models, but might it also apply to pre-trained Transformers? If the "good" subnetworks exist, can they tell us anything about how BERT achieves its performance? 
-
-## Shared Interpretation Mission
-
-BlackboxNLP 2020 will include a shared interpretation mission. Details available [here](https://blackboxnlp.github.io/shared).
-
-## Paper submission 
-
-We accept two types of papers
-
-- <b>Archival papers</b>. These are papers reporting on completed, original and unpublished research, with maximum length of 8 pages + references. Papers shorter than this maximum are also welcome. An optional appendix may appear after the references in the same pdf file. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should report on obtained results rather than intended work. These papers will undergo double-blind peer-review, and should thus be anonymized. Archival papers will be included in the workshop proceedings and the ACL anthology.
-
-- <b>Extended abstracts</b>. These may report on work in progress or may be cross submissions that have already appeared in a non-NLP venue. The extended abstracts are of maximum 2 pages + references. These submissions are non-archival in order to allow submission to another venue. The selection will not be based on a double-blind review and thus submissions of this type need not be anonymized. Abstracts will be posted on the workshop website but will not be included in the proceedings.
-
-Both papers and abstracts should follow the official EMNLP 2020 style guidelines and should be submitted via softconf:
-
-[https://www.softconf.com/emnlp2020/blackboxnlp2020/](https://www.softconf.com/emnlp2020/blackboxnlp2020/)
-
-Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
-
-## Dual submissions and preprints 
-Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper's main conference submission id.
-The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated.
-Authors of dual-submission papers accepted to the main conference should retract them from the workshop by September 20.
-
-Papers posted to preprint servers such as arxiv can be submitted
-without any restrictions on when they were posted.
-
-## Camera-ready information
-Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages. 
 
 ## Program committee
 
