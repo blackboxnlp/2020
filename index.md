@@ -17,8 +17,10 @@ The workshop will be collocated with EMNLP 2020.
 ## Workshop programme 
 
 BlackboxNLP2020 will be held virtually.
-To promote accessibility across timezones, all talks and posters will be presented twice.
+To promote accessibility across timezones, the programme is divided into three blocks. All talks and posters will be presented twice, in two different blocks.
+A more detailed version of the programme will be available soon.
 
+### Block B
 | Session                           | Time                                                        |
 |                                   | US West coast | Punta Cana   | London    | China            |
 |                                   | (UTC-8)       | (UTC-4)      | (UTC)     | (UTC+8)          |
@@ -33,10 +35,22 @@ To promote accessibility across timezones, all talks and posters will be present
 | Break                                                                                           |
 | Keynote speaker 1 -- repeat       | 04:15 - 05:00 | 8:16 - 9:00  |                              |
 |-------------------------------------------------------------------------------------------------|
+
+### Block B
+| Session                           | Time                                                        |
+|                                   | US West coast | Punta Cana   | London    | China            |
+|                                   | (UTC-8)       | (UTC-4)      | (UTC)     | (UTC+8)          |
 |-------------------------------------------------------------------------------------------------|
 | Keynote speaker 2: Roger Levy     | 7:00 - 7:45   | 11:00 - 11:45 |                             |
+| Break                                                                                           |
+| Oral presentations 2              | 8:00 - 9:00   | 12:00 - 13:00 |                             |
+| Break                                                                                           |
+| Keynote speaker 3: Idan Blank     | 9:15 - 10:00  | 13:15 - 14:00 |                             |
+| Awards and closing remarks        | 10:00 - 10:20 | 14:00 - 14:20 |                             |
+| Break                                                                                           |
+| Poster session B                  | 10:30 - 12:00 | 14:30 - 16:00 |                             |
 
-
+### Block A
 
 
 
