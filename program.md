@@ -138,11 +138,11 @@ Poster session 3 (block A)
 
 **Findings papers**
 - _Improving Text Understanding via Deep Syntax-Semantics Communication_. Hao Fei, Yafeng Ren and Donghong Ji (room A).
-- _Exploring BERT's sensitivity to lexical cues using tests from semantic priming_. Kanishka Misra, Allyson Ettinger and Julia Rayz (room A). 3442
-- _Corpora Evaluation and System Bias Detection in Multi-document Summarization_. Alvin Dey, Tanya Chowdhury, Yash Kumar and Tanmoy Chakraborty (room A). 2145
+- _Exploring BERT's sensitivity to lexical cues using tests from semantic priming_. Kanishka Misra, Allyson Ettinger and Julia Rayz (room A). 
+- _Corpora Evaluation and System Bias Detection in Multi-document Summarization_. Alvin Dey, Tanya Chowdhury, Yash Kumar and Tanmoy Chakraborty (room A).
 - _On the Language Neutrality of Pre-trained Multilingual Representations_. Jindřich Libovický, Rudolf Rosa and Alexander Fraser (room A).
 - _How Can Self-Attention Networks Recognize Dyck-n Languages?_. Javid Ebrahimi, Dhruv Gelda and Wei Zhang (room B).3210
-- _Why and when should you pool? Analyzing Pooling in Recurrent Architectures_. Pratyush Maini, Keshav Kolluru, Danish Pruthi and Mausam (room B). 3385
+- _Why and when should you pool? Analyzing Pooling in Recurrent Architectures_. Pratyush Maini, Keshav Kolluru, Danish Pruthi and Mausam (room B).
 - _Rethinking Self-Attention: Towards Interpretability in Neural Parsing_. Khalil Mrini, Franck Dernoncourt, Quan Hung Tran, Trung Bui, Walter Chang and Ndapa Nakashole (room B).
 - _Reducing Sentiment Bias in Language Models via Counterfactual Evaluation_. Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng and Yun Xu (room C).
 - _Towards Controllable Biases in Language Generation_. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng (room C).
@@ -151,7 +151,7 @@ Poster session 3 (block A)
 - _Undersensitivity in Neural Reading Comprehension_. Johannes Welbl, Pasquale Minervini, Max Bartolo, Pontus Stenetorp and Sebastian Riedel (room D).
 - _Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs_. Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A. Smith and Yejin Choi (room D). 
 - _Optimizing Word Segmentation for Downstream Task_. Tatsuya Hiraoka, Sho Takase, Kei Uchiumi, Atsushi Keyaki and Naoaki Okazaki (room D).
-- _Assessing Robustness of Text Classification through Maximal Safe Radius Computation_. Emanuele La Malfa, Min Wu, Luca Laurenti, Benjie Wang, Anthony Hartshorn and Marta Kwiatkowska (room D). 2185
+- _Assessing Robustness of Text Classification through Maximal Safe Radius Computation_. Emanuele La Malfa, Min Wu, Luca Laurenti, Benjie Wang, Anthony Hartshorn and Marta Kwiatkowska (room D). 
 - _Evaluating Factuality in Generation with Dependency-level Entailment_. Tanya Goyal and Greg Durrett (room D). 
 - _Weakly- and Semi-supervised Evidence Extraction_. Danish Pruthi, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton (room D).
 - _On the Sub-Layer Functionalities of Transformer Decoder_ Yilin Yang, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee and Zhaopeng Tu (room D).
