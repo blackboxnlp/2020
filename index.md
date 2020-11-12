@@ -56,7 +56,7 @@ A detailed version of the programme is available [here](program.md).
 
 | Session                           | Time                                                             |
 |                                   | US West coast | Punta Cana    | London        | China            |
-|                                   | (UTC-8)       | (UTC-4)       | (UTC)         | (UTC+8) (Nov 23) |
+|                                   | (UTC-8)       | (UTC-4)       | (UTC)         | (UTC+8) (Nov 21) |
 |------------------------------------------------------------------------------------------------------|
 | Keynote speaker 2 -- Roger Levy   | 15:00 - 15:45 | 19:00 - 19:45 | 23:00 - 23:45 | 07:00 - 07:45    |
 | Break                                                                                                |
