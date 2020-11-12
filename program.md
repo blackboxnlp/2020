@@ -67,10 +67,10 @@ Oral presentation session 3 (Time indications: Punta Cana)
 
 Poster session 1 (block B)
 ----------------
-Archival papers:
+**Archival papers**
 - TBA
 
-*Extended abstracts*
+**Extended abstracts**
 - _How Much Does RoBERTa Know About Quantifiers? An Assessment via Natural Language Inference_. Authors:  Cedegao Zhang (room A).
 - _Inductive Biases of Seq2seq Learners under Minimal Stimuli_. Eugene Kharitonov and Rahma Chaabouni (room A).
 - _Interpreting Neural Networks with Topic Models: Evidence from "Predicting In-game Actions From Interviews of NBA Players"_. Amir Feder, Nadav Oved and Roi Reichart (room A).
@@ -80,7 +80,7 @@ Archival papers:
 - _Analyzing saliency in neural content scoring models for science explanations_. Brian Riordan, Sarah Bichler, Allison Bradford and Marcia Linn (room C). 
 - _Analyzing Neural Machine Translation Trained Using Targeted Part-Of-Speech_. Subhadarshi Panda (room C).
 
-Findings papers:
+**Findings papers**
 - _Improving Text Understanding via Deep Syntax-Semantics Communication_. Hao Fei, Yafeng Ren and Donghong Ji (room A).
 - _On the Language Neutrality of Pre-trained Multilingual Representations_. Jindřich Libovický, Rudolf Rosa and Alexander Fraser (room A).
 - _Corpora Evaluation and System Bias Detection in Multi-document Summarization_. Alvin Dey, Tanya Chowdhury, Yash Kumar and Tanmoy Chakraborty (room A).
@@ -97,14 +97,14 @@ Findings papers:
 
 Poster session 2 (block C)
 ----------------
-*Archival papers*
+**Archival papers**
 - TBA
 
-*Extended abstracts*
+**Extended abstracts**
 - _Analyzing Neural Machine Translation Trained Using Targeted Part-Of-Speech_. Subhadarshi Panda (room K).
 - _BERT's Adaptability to Small Data_. Héctor Vázquez Martínez and Annika Heuser (room L).
 
-*Findings papers*
+**Findings papers**
 - _Optimizing Word Segmentation for Downstream Task_. Tatsuya Hiraoka, Sho Takase, Kei Uchiumi, Atsushi Keyaki and Naoaki Okazaki (room J).
 - _Universal Dependencies According to BERT: Both More Specific andMore General_. Tomasz Limisiewicz, David Mareček and Rudolf Rosa (room J).
 - _Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs_. Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A. Smith and Yejin Choi (room J).
@@ -123,10 +123,10 @@ Poster session 2 (block C)
 
 Poster session 3 (block A)
 ----------------
-Archival papers:
+**Archival papers**
 - TBA
 
-*Extended abstracts*
+**Extended abstracts**
 - _Inductive Biases of Seq2seq Learners under Minimal Stimuli_. Eugene Kharitonov and Rahma Chaabouni (room A).
 - _How Much Does RoBERTa Know About Quantifiers? An Assessment via Natural Language Inference_. Authors:  Cedegao Zhang (room A).
 - _Interpreting Neural Networks with Topic Models: Evidence from "Predicting In-game Actions From Interviews of NBA Players"_. Amir Feder, Nadav Oved and Roi Reichart (room A).
@@ -136,7 +136,7 @@ Archival papers:
 - _Analyzing saliency in neural content scoring models for science explanations_. Brian Riordan, Sarah Bichler, Allison Bradford and Marcia Linn (room C).
 - _Mighty Morpho-Probing Models_. Naomi Tachikawa Shapiro, Amandalynne Paullada and Shane Steinert-Threlkeld (room C).
 
-Findings papers:
+**Findings papers**
 - _Improving Text Understanding via Deep Syntax-Semantics Communication_. Hao Fei, Yafeng Ren and Donghong Ji (room A).
 - _Exploring BERT's sensitivity to lexical cues using tests from semantic priming_. Kanishka Misra, Allyson Ettinger and Julia Rayz (room A). 3442
 - _Corpora Evaluation and System Bias Detection in Multi-document Summarization_. Alvin Dey, Tanya Chowdhury, Yash Kumar and Tanmoy Chakraborty (room A). 2145
