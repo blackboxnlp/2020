@@ -22,10 +22,10 @@ A more detailed version of the programme will be available soon.
 
 ### Block B
 
-| Session                           | Time                                                        |
-|                                   | US West coast | Punta Cana   | London    | China            |
-|                                   | (UTC-8)       | (UTC-4)      | (UTC)     | (UTC+8)          |
-|-------------------------------------------------------------------------------------------------|
+| Session                           | Time                                                         |
+|                                   | US West coast | Punta Cana   | London        | China         |
+|                                   | (UTC-8)       | (UTC-4)      | (UTC)         | (UTC+8)       |
+|--------------------------------------------------------------------------------------------------|
 | Opening remarks                   | 00:00 - 00:15 | 4:00 - 4:15  | 8:00 - 8:15   | 16:00 - 16:15 |
 | Keynote speaker 1 -- Anna Rogers  | 00:15 - 01:00 | 4:15 - 5:00  | 8:15 - 9:00   | 16:15 - 17:00 |
 | Break                                                                                            |
@@ -39,8 +39,8 @@ A more detailed version of the programme will be available soon.
 ### Block C
 
 | Session                           | Time                                                          |
-|                                   | US West coast | Punta Cana    | London    | China             |
-|                                   | (UTC-8)       | (UTC-4)       | (UTC)     | (UTC+8)           |
+|                                   | US West coast | Punta Cana    | London        | China         |
+|                                   | (UTC-8)       | (UTC-4)       | (UTC)         | (UTC+8)       |
 |---------------------------------------------------------------------------------------------------|
 | Keynote speaker 2 -- Roger Levy   | 7:00 - 7:45   | 11:00 - 11:45 | 15:00 - 15:45 | 19:00 - 19:45 |
 | Break                                                                                             |
@@ -54,16 +54,16 @@ A more detailed version of the programme will be available soon.
 
 ### Block A
 
-| Session                           | Time                                                            |
-|                                   | US West coast | Punta Cana    | London        | China           |
-|                                   | (UTC-8)       | (UTC-4)       | (UTC)         | (UTC+8)         |
-|-----------------------------------------------------------------------------------------------------|
-| Keynote speaker 2 -- Roger Levy   | 15:00 - 15:45 | 19:00 - 19:45 | 23:00 - 23:45 |                 |
-| Break                                                                                               |
-| Poster session A                  | 16:00 - 17:30 | 20:00 - 21:30 |                                 |             
-| Oral session 3                    | 17:30 - 19:45 | 21:30 - 22:45 |                                 |
-| Break                                                                                               |
-| Keynote speaker 3 -- Idan Blank   | 20:00 - 20:45 | 23:00 - 23:45 |                                 |
+| Session                           | Time                                                             |
+|                                   | US West coast | Punta Cana    | London        | China            |
+|                                   | (UTC-8)       | (UTC-4)       | (UTC)         | (UTC+8) (Nov 23) |
+|------------------------------------------------------------------------------------------------------|
+| Keynote speaker 2 -- Roger Levy   | 15:00 - 15:45 | 19:00 - 19:45 | 23:00 - 23:45 | 07:00 - 07:45    |
+| Break                                                                                                |
+| Poster session A                  | 16:00 - 17:30 | 20:00 - 21:30 | 00:00 - 01:30 | 08:00 - 09:30    |             
+| Oral session 3                    | 17:30 - 19:45 | 21:30 - 22:45 | 01:30 - 02:45 | 09:30 - 10:45    |
+| Break                                                                                                |
+| Keynote speaker 3 -- Idan Blank   | 20:00 - 20:45 | 23:00 - 23:45 | 03:00 - 03:45 | 11:00 - 11:45    |
 
 
 ## Invited speakers
