@@ -18,7 +18,7 @@ The workshop will be collocated with EMNLP 2020.
 
 BlackboxNLP2020 will be held virtually.
 To promote accessibility across timezones, the programme is divided into three blocks. All talks and posters will be presented twice, in two different blocks.
-A more detailed version of the programme will be available soon.
+A detailed version of the programme is available [here](program.md).
 
 ### Block B
 
