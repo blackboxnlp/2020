@@ -65,7 +65,7 @@ Oral presentation session 3 (Time indications: Punta Cana)
 - 22:18 - 22:30  _What Happens To BERT Embeddings During Fine-tuning?_. Amil Merchant, Elahe Rahimtoroghi, Ellie Pavlick and Ian Tenney (repetition).
 - 22:30 - 22:45 _Live Q&A_ With all paper authors.
 
-Poster session B
+Poster session 1 (block B)
 ----------------
 Archival papers:
 - TBA
@@ -73,7 +73,47 @@ Archival papers:
 Extended abstracts:
 - TBA
 
-Poster session C
+Findings papers:
+- _Improving Text Understanding via Deep Syntax-Semantics Communication_. Hao Fei, Yafeng Ren and Donghong Ji (room A).
+- _On the Language Neutrality of Pre-trained Multilingual Representations_. Jindřich Libovický, Rudolf Rosa and Alexander Fraser (room A).
+- _Corpora Evaluation and System Bias Detection in Multi-document Summarization_. Alvin Dey, Tanya Chowdhury, Yash Kumar and Tanmoy Chakraborty (room A).
+- _Interpretable Entity Representations through Large-Scale Typing_. Yasumasa Onoe and Greg Durrett (room B).
+- _Be Different to Be Better! A Benchmark to Leverage the Complementarity of Language and Vision_. Sandro Pezzelle, Claudio Greco, Greta Gandolfi, Eleonora Gualdoni and Raffaella Bernardi (room B).
+- _NLP Service APIs and Models for Efficient Registration of New Clients_. Sahil Shah, Vihari Piratla, Soumen Chakrabarti and Sunita Sarawagi (room B).
+- _Rethinking Self-Attention: Towards Interpretability in Neural Parsing_. Khalil Mrini, Franck Dernoncourt, Quan Hung Tran, Trung Bui, Walter Chang and Ndapa Nakashole (room B).
+- _Reducing Sentiment Bias in Language Models via Counterfactual Evaluation_. Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng and Yun Xu (room C).
+- _Undersensitivity in Neural Reading Comprehension_. Johannes Welbl, Pasquale Minervini, Max Bartolo, Pontus Stenetorp and Sebastian Riedel (room D).
+- _Assessing Robustness of Text Classification through Maximal Safe Radius Computation_. Emanuele La Malfa, Min Wu, Luca Laurenti, Benjie Wang, Anthony Hartshorn and Marta Kwiatkowska (room D). 
+- _Universal Dependencies According to BERT: Both More Specific andMore General_. Tomasz Limisiewicz, David Mareček and Rudolf Rosa (room D).
+- _LSTMS Compose---and Learn---Bottom-Up_. Naomi Saphra and Adam Lopez (room D).
+- _What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models_. Wietse de Vries, Andreas van Cranenburgh and Malvina Nissim (room D).
+
+Poster session 2 (block C)
+----------------
+Archival papers:
+- TBA
+
+Findings papers:
+- _Optimizing Word Segmentation for Downstream Task_. Tatsuya Hiraoka, Sho Takase, Kei Uchiumi, Atsushi Keyaki and Naoaki Okazaki (room J).
+- _Universal Dependencies According to BERT: Both More Specific andMore General_. Tomasz Limisiewicz, David Mareček and Rudolf Rosa (room J).
+- _Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs_. Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A. Smith and Yejin Choi (room J).
+- _Evaluating Factuality in Generation with Dependency-level Entailment_. Tanya Goyal and Greg Durrett (room J).
+- _What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models_. Wietse de Vries, Andreas van Cranenburgh and Malvina Nissim (room J).
+- _On the Sub-Layer Functionalities of Transformer Decoder_ Yilin Yang, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee and Zhaopeng Tu (room J).
+- _Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?_. Peter Hase, Shiyue Zhang, Harry Xie and Mohit Bansal (room K).
+- _Interpretable Entity Representations through Large-Scale Typing_. Yasumasa Onoe and Greg Durrett (room K).
+- _Towards Controllable Biases in Language Generation_. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng (room K).
+- _Be Different to Be Better! A Benchmark to Leverage the Complementarity of Language and Vision_. Sandro Pezzelle, Claudio Greco, Greta Gandolfi, Eleonora Gualdoni and Raffaella Bernardi (room K).
+- _How Can Self-Attention Networks Recognize Dyck-n Languages?_. Javid Ebrahimi, Dhruv Gelda and Wei Zhang (room L).
+- _NLP Service APIs and Models for Efficient Registration of New Clients_. Sahil Shah, Vihari Piratla, Soumen Chakrabarti and Sunita Sarawagi (room L). 
+- _Why and when should you pool? Analyzing Pooling in Recurrent Architectures_. Pratyush Maini, Keshav Kolluru, Danish Pruthi and Mausam (room L). 
+- _Exploring BERT's sensitivity to lexical cues using tests from semantic priming_. Kanishka Misra, Allyson Ettinger and Julia Rayz (room M). 
+- _LSTMS Compose---and Learn---Bottom-Up_. Naomi Saphra and Adam Lopez (room M). 
+
+Extended abstracts:
+- TBA
+
+Poster session 3 (block A)
 ----------------
 Archival papers:
 - TBA
@@ -81,15 +121,24 @@ Archival papers:
 Extended abstracts:
 - TBA
 
-Poster session A
-----------------
-Archival papers:
-- TBA
-
-Extended abstracts:
-- TBA
-
-
-
+Findings papers:
+- _Improving Text Understanding via Deep Syntax-Semantics Communication_. Hao Fei, Yafeng Ren and Donghong Ji (room A).
+- _Exploring BERT's sensitivity to lexical cues using tests from semantic priming_. Kanishka Misra, Allyson Ettinger and Julia Rayz (room A). 3442
+- _Corpora Evaluation and System Bias Detection in Multi-document Summarization_. Alvin Dey, Tanya Chowdhury, Yash Kumar and Tanmoy Chakraborty (room A). 2145
+- _On the Language Neutrality of Pre-trained Multilingual Representations_. Jindřich Libovický, Rudolf Rosa and Alexander Fraser (room A).
+- _How Can Self-Attention Networks Recognize Dyck-n Languages?_. Javid Ebrahimi, Dhruv Gelda and Wei Zhang (room B).3210
+- _Why and when should you pool? Analyzing Pooling in Recurrent Architectures_. Pratyush Maini, Keshav Kolluru, Danish Pruthi and Mausam (room B). 3385
+- _Rethinking Self-Attention: Towards Interpretability in Neural Parsing_. Khalil Mrini, Franck Dernoncourt, Quan Hung Tran, Trung Bui, Walter Chang and Ndapa Nakashole (room B).
+- _Reducing Sentiment Bias in Language Models via Counterfactual Evaluation_. Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng and Yun Xu (room C).
+- _Towards Controllable Biases in Language Generation_. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng (room C).
+- _Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?_. Peter Hase, Shiyue Zhang, Harry Xie and Mohit Bansal (room C).
+- _Event-Related Bias Removal for Real-time Disaster Events_. Salvador Medina Maza, Evangelia Spiliopoulou, Eduard Hovy and Alexander Hauptmann (room C). 
+- _Undersensitivity in Neural Reading Comprehension_. Johannes Welbl, Pasquale Minervini, Max Bartolo, Pontus Stenetorp and Sebastian Riedel (room D).
+- _Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs_. Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A. Smith and Yejin Choi (room D). 
+- _Optimizing Word Segmentation for Downstream Task_. Tatsuya Hiraoka, Sho Takase, Kei Uchiumi, Atsushi Keyaki and Naoaki Okazaki (room D).
+- _Assessing Robustness of Text Classification through Maximal Safe Radius Computation_. Emanuele La Malfa, Min Wu, Luca Laurenti, Benjie Wang, Anthony Hartshorn and Marta Kwiatkowska (room D). 2185
+- _Evaluating Factuality in Generation with Dependency-level Entailment_. Tanya Goyal and Greg Durrett (room D). 
+- _Weakly- and Semi-supervised Evidence Extraction_. Danish Pruthi, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton (room D).
+- _On the Sub-Layer Functionalities of Transformer Decoder_ Yilin Yang, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee and Zhaopeng Tu (room D).
 
 
