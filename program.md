@@ -68,7 +68,22 @@ Oral presentation session 3 (Time indications: Punta Cana)
 Poster session 1 (block B)
 ----------------
 **Archival papers**
-- TBA
+- _The Explanation Game: Towards Prediction Explainability through Sparse Communication_  Marcos Treviso and André F. T. Martins (room A).
+- _Defining Explanation in an AI Context_  Tejaswani Verma, Christoph Lingenfelder and Dietrich Klakow (room A).
+- _Controlling the Imprint of Passivization and Negation in Contextualized Representations_  Hande Celikkanat, Sami Virpioja, Jörg Tiedemann and Marianna Apidianaki (room A).
+- _How does BERT capture semantics? A closer look at polysemous words_  David Yenicelik, Florian Schmidt and Yannic Kilcher (room A).
+- _Leveraging Extracted Model Adversaries for Improved Black Box Attacks_. Naveen Jafer Nizar and Ari Kobren (room B).
+- _Attacking Semantic Similarity: Generating Second-Order NLP Adversarial Examples_  John Morris (room B).
+- _BERTnesia: Investigating the capture and forgetting of knowledge in BERT_  Jaspreet Singh, Jonas Wallat and Avishek Anand (room B).
+- _Linguistically-Informed Transformations (LIT): A Method for Automatically Generating Contrast Sets_  Chuanrong Li, Lin Shengshuo, Zeyu Liu, Xinyi Wu, Xuhui Zhou and Shane Steinert-Threlkeld (room B).
+- _Latent Tree Learning with Ordered Neurons: What Parses Does It Produce?_  Yian Zhang (room B).
+- _Emergent Language Generalization and Acquisition Speed are not tied to Compositionality_. Eugene Kharitonov and Marco Baroni (room C).
+- _Neural Natural Language Inference Models Partially Embed Theories of Lexical Entailment and Negation_  Atticus Geiger, Kyle Richardson and Christopher Potts (room C).
+- _It’s not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT_. Hila Gonen, Shauli Ravfogel, Yanai Elazar and Yoav Goldberg (room C).
+- _On the Interplay Between Fine-tuning and Sentence-Level Probing for Linguistic Knowledge in Pre-Trained Transformers_. Marius Mosbach, Anna Khokhlova, Michael A. Hedderich and Dietrich Klakow (room C).
+- _Unsupervised Evaluation for Question Answering with Transformers_. Lukas Muttenthaler, Isabelle Augenstein and Johannes Bjerva (room D).
+- _Do Language Embeddings capture Scales?_  Xikun Zhang, Deepak Ramachandran, Ian Tenney, Yanai Elazar and Dan Roth (room D).
+- _Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples_  Jin Yong Yoo, John Morris, Eli Lifland and Yanjun Qi (room D).
 
 **Extended abstracts**
 - _How Much Does RoBERTa Know About Quantifiers? An Assessment via Natural Language Inference_. Authors:  Cedegao Zhang (room A).
@@ -124,7 +139,20 @@ Poster session 2 (block C)
 Poster session 3 (block A)
 ----------------
 **Archival papers**
-- TBA
+- _BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? - A Study on the RAMS Dataset_  Varun Gangal and Eduard Hovy (room A).
+- _Exploring Neural Entity Representations for Semantic Information_  Andrew Runge and Eduard Hovy (room A).
+- _Structured Self-Attention Weights Encodes Semantics in Sentiment Analysis_  Zhengxuan Wu, Thanh-Son Nguyen and Desmond Ong (room A).
+- _This is a BERT. Now there are several of them. Can they generalize to novel words?_  Coleman Haley (room B).
+- _Attacking Semantic Similarity: Generating Second-Order NLP Adversarial Examples_  John Morris (room B).
+- _Discovering the Compositional Structure of Vector Representations with Role Learning Networks_  Paul Soulos, R. Thomas Mccoy, Tal Linzen and Paul Smolensky (room B).
+- _Examining the rhetorical capacities of neural language models_  Zining Zhu, Chuer Pan, Mohamed Abdalla and Frank Rudzicz (room B).
+- _Linguistically-Informed Transformations (LIT): A Method for Automatically Generating Contrast Sets_  Chuanrong Li, Lin Shengshuo, Zeyu Liu, Xinyi Wu, Xuhui Zhou and Shane Steinert-Threlkeld (room B).
+- _Unsupervised Distillation of Syntactic Information from Contextualized Word Representations_  Shauli Ravfogel, Yanai Elazar, Jacob Goldberger and Yoav Goldberg (room C).
+- _Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization_  Tristan Thrush, Ethan Wilcox and Roger Levy (room C).
+- _Neural Natural Language Inference Models Partially Embed Theories of Lexical Entailment and Negation_  Atticus Geiger, Kyle Richardson and Christopher Potts (room C).
+- _Probing for Multilingual Numerical Understanding in Transformer-Based Language Models_  Devin Johnson, Denise Mak, Andrew Barker and Lexi Loessberg-Zahl (room D). 
+- _Do Language Embeddings capture Scales?_  Xikun Zhang, Deepak Ramachandran, Ian Tenney, Yanai Elazar and Dan Roth (room D).
+- _Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples_  Jin Yong Yoo, John Morris, Eli Lifland and Yanjun Qi (room D).
 
 **Extended abstracts**
 - _Inductive Biases of Seq2seq Learners under Minimal Stimuli_. Eugene Kharitonov and Rahma Chaabouni (room A).
