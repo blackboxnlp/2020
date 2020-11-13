@@ -56,8 +56,6 @@ Oral presentation session 2 (Time indications: Punta Cana)
 
 Oral presentation session 3 (Time indications: Punta Cana)
 ---------------------------
-| Oral session 3                    | 17:30 - 19:45 | 21:30 - 22:45 | 01:30 - 02:45 | 09:30 - 10:45    |
-
 - 21:30 - 21:42 _Evaluating Attribution Methods using White-Box LSTMs_. Yiding Hao (repetition).
 - 21:42 - 21:54 _The EOS Decision and Length Extrapolation_. Benjamin Newman, John Hewitt, Percy Liang and Christopher D. Manning (repetition).
 - 21:54 - 22:06 _BERTs of a feather do not generalize together: Large variability in generalization across models with similar test set performance_. R. Thomas Mccoy, Junghyun Min and Tal Linzen (repetition).
