@@ -113,7 +113,26 @@ Poster session 1 (block B)
 Poster session 2 (block C)
 ----------------
 **Archival papers**
-- TBA
+- _BERTnesia: Investigating the capture and forgetting of knowledge in BERT_  Jaspreet Singh, Jonas Wallat and Avishek Anand (room J).
+- _Probing for Multilingual Numerical Understanding in Transformer-Based Language Models_  Devin Johnson, Denise Mak, Andrew Barker and Lexi Loessberg-Zahl (room J).
+- _Examining the rhetorical capacities of neural language models_  Zining Zhu, Chuer Pan, Mohamed Abdalla and Frank Rudzicz (room J).
+- _On the Interplay Between Fine-tuning and Sentence-Level Probing for Linguistic Knowledge in Pre-Trained Transformers_  Marius Mosbach, Anna Khokhlova, Michael A. Hedderich and Dietrich Klakow (room J).
+- _Emergent Language Generalization and Acquisition Speed are not tied to Compositionality_  Eugene Kharitonov and Marco Baroni (room K).
+- _Unsupervised Distillation of Syntactic Information from Contextualized Word Representations_  Shauli Ravfogel, Yanai Elazar, Jacob Goldberger and Yoav Goldberg (room K).
+- _It’s not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT_  Hila Gonen, Shauli Ravfogel, Yanai Elazar and Yoav Goldberg (room K).
+- _Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization_  Tristan Thrush, Ethan Wilcox and Roger Levy (room K).
+- _Discovering the Compositional Structure of Vector Representations with Role Learning Networks_  Paul Soulos, R. Thomas Mccoy, Tal Linzen and Paul Smolensky (room L).
+- _Unsupervised Evaluation for Question Answering with Transformers_  Lukas Muttenthaler, Isabelle Augenstein and Johannes Bjerva (room L).
+- _This is a BERT. Now there are several of them. Can they generalize to novel words?_  Coleman Haley (room L).
+- _Leveraging Extracted Model Adversaries for Improved Black Box Attacks_  Naveen Jafer Nizar and Ari Kobren (room L).
+- _Latent Tree Learning with Ordered Neurons: What Parses Does It Produce?_  Yian Zhang (room L).
+- _BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? - A Study on the RAMS Dataset_  Varun Gangal and Eduard Hovy (room M).
+- _The Explanation Game: Towards Prediction Explainability through Sparse Communication_  Marcos Treviso and André F. T. Martins (room M).
+- _Controlling the Imprint of Passivization and Negation in Contextualized Representations_  Hande Celikkanat, Sami Virpioja, Jörg Tiedemann and Marianna Apidianaki (room M).
+- _How does BERT capture semantics? A closer look at polysemous words_  David Yenicelik, Florian Schmidt and Yannic Kilcher (room M).
+- _Exploring Neural Entity Representations for Semantic Information_  Andrew Runge and Eduard Hovy (room M).
+- _Structured Self-Attention Weights Encodes Semantics in Sentiment Analysis_  Zhengxuan Wu, Thanh-Son Nguyen and Desmond Ong (room M).
+- _Defining Explanation in an AI Context_  Tejaswani Verma, Christoph Lingenfelder and Dietrich Klakow (room M).
 
 **Extended abstracts**
 - _Analyzing Neural Machine Translation Trained Using Targeted Part-Of-Speech_. Subhadarshi Panda (room K).
