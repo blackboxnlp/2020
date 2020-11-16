@@ -101,7 +101,7 @@ Poster session 1 (block B)
 - _Be Different to Be Better! A Benchmark to Leverage the Complementarity of Language and Vision_. Sandro Pezzelle, Claudio Greco, Greta Gandolfi, Eleonora Gualdoni and Raffaella Bernardi (room B).
 - _NLP Service APIs and Models for Efficient Registration of New Clients_. Sahil Shah, Vihari Piratla, Soumen Chakrabarti and Sunita Sarawagi (room B).
 - _Rethinking Self-Attention: Towards Interpretability in Neural Parsing_. Khalil Mrini, Franck Dernoncourt, Quan Hung Tran, Trung Bui, Walter Chang and Ndapa Nakashole (room B).
-- _Reducing Sentiment Bias in Language Models via Counterfactual Evaluation_. Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng and Yun Xu (room C).
+- _Reducing Sentiment Bias in Language Models via Counterfactual Evaluation_. Po-Sen Huang, Huan Zhang, Ray Jiang, Robert Stanforth, Johannes Welbl, Jack Rae, Vishal Maini, Dani Yogatama, Pushmeet Kohli (room C).
 - _Undersensitivity in Neural Reading Comprehension_. Johannes Welbl, Pasquale Minervini, Max Bartolo, Pontus Stenetorp and Sebastian Riedel (room D).
 - _Assessing Robustness of Text Classification through Maximal Safe Radius Computation_. Emanuele La Malfa, Min Wu, Luca Laurenti, Benjie Wang, Anthony Hartshorn and Marta Kwiatkowska (room D). 
 - _Universal Dependencies According to BERT: Both More Specific andMore General_. Tomasz Limisiewicz, David Mareček and Rudolf Rosa (room D).
