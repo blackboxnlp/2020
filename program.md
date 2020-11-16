@@ -189,7 +189,7 @@ Poster session 3 (block A)
 - _How Can Self-Attention Networks Recognize Dyck-n Languages?_. Javid Ebrahimi, Dhruv Gelda and Wei Zhang (room B).3210
 - _Why and when should you pool? Analyzing Pooling in Recurrent Architectures_. Pratyush Maini, Keshav Kolluru, Danish Pruthi and Mausam (room B).
 - _Rethinking Self-Attention: Towards Interpretability in Neural Parsing_. Khalil Mrini, Franck Dernoncourt, Quan Hung Tran, Trung Bui, Walter Chang and Ndapa Nakashole (room B).
-- _Reducing Sentiment Bias in Language Models via Counterfactual Evaluation_. Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng and Yun Xu (room C).
+- _Reducing Sentiment Bias in Language Models via Counterfactual Evaluation_. Po-Sen Huang, Huan Zhang, Ray Jiang, Robert Stanforth, Johannes Welbl, Jack Rae, Vishal Maini, Dani Yogatama, Pushmeet Kohli (room C).
 - _Towards Controllable Biases in Language Generation_. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng (room C).
 - _Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?_. Peter Hase, Shiyue Zhang, Harry Xie and Mohit Bansal (room C).
 - _Event-Related Bias Removal for Real-time Disaster Events_. Salvador Medina Maza, Evangelia Spiliopoulou, Eduard Hovy and Alexander Hauptmann (room C). 
