@@ -50,7 +50,7 @@ Oral presentation session 2 (Time indications: Punta Cana)
 
 - 12:00 - 12:12 _What Happens To BERT Embeddings During Fine-tuning?_. Amil Merchant, Elahe Rahimtoroghi, Ellie Pavlick and Ian Tenney.
 - 12:12 - 12:24 _The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?_. Jasmijn Bastings and Katja Filippova  (repetition).
-- 12:24 - 12:36 _Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation_. Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation.
+- 12:24 - 12:36 _Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation_. Rajiv Movva and Jason Zhao.
 - 12:36 - 12:48 _The EOS Decision and Length Extrapolation_. Benjamin Newman, John Hewitt, Percy Liang and Christopher D. Manning.
 - 12:48 - 13:00 _Live Q&A_ With all paper authors.
 
@@ -59,7 +59,7 @@ Oral presentation session 3 (Time indications: Punta Cana)
 - 21:30 - 21:42 _Evaluating Attribution Methods using White-Box LSTMs_. Yiding Hao (repetition).
 - 21:42 - 21:54 _The EOS Decision and Length Extrapolation_. Benjamin Newman, John Hewitt, Percy Liang and Christopher D. Manning (repetition).
 - 21:54 - 22:06 _BERTs of a feather do not generalize together: Large variability in generalization across models with similar test set performance_. R. Thomas Mccoy, Junghyun Min and Tal Linzen (repetition).
-- 22:06 - 22:18 _Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation_. Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation (repetition).
+- 22:06 - 22:18 _Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation_. Rajiv Movva and Jason Zhao (repetition).
 - 22:18 - 22:30  _What Happens To BERT Embeddings During Fine-tuning?_. Amil Merchant, Elahe Rahimtoroghi, Ellie Pavlick and Ian Tenney (repetition).
 - 22:30 - 22:45 _Live Q&A_ With all paper authors.
 
