@@ -20,7 +20,7 @@ BlackboxNLP2020 will be held virtually.
 To promote accessibility across timezones, the programme is divided into three blocks. All talks and posters will be presented twice, in two different blocks.
 A detailed version of the programme is available [here](program.md).
 
-All plenary sessions will be held in zoom, where we will livestream the keynote and oral presentations, that are followed by a live Q&A. Questions can be asked in rocket chat during the presentations. Poster sessions will be held in gather town. For the links to both the zoom session, rocketchat channel, we refer to the conference website.
+All plenary sessions will be held in zoom, where we will livestream the keynote and oral presentations, that are followed by a live Q&A. Questions can be asked in rocket chat during the presentations. Poster sessions will be held in gather town. **The links to the zoom session, gather.town space and the rocketchat channel can be found on the [EMNLP page of the workshop](https://virtual.2020.emnlp.org/workshop_WS-25.html)** (only accessible with conference registration).
 
 ### Block B
 

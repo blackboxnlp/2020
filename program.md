@@ -1,6 +1,8 @@
 
 [Main page](index.md)
 
+All plenary sessions will be held in zoom, where we will livestream the keynote and oral presentations, that are followed by a live Q&A. Questions can be asked in rocket chat during the presentations. Poster sessions will be held in gather town. **The links to the zoom session, gather.town space and the rocketchat channel can be found on the [EMNLP page of the workshop](https://virtual.2020.emnlp.org/workshop_WS-25.html)** (only accessible with conference registration).
+
 Summary of the program (Time indications: Punta Cana)
 ----------------------
 
