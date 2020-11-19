@@ -34,7 +34,7 @@ All plenary sessions will be held in zoom, where we will livestream the keynote 
 | Oral presentations 1              | Zoom        | 01:15 - 02:00 | 5:15 - 6:00  | 9:15 - 10:00  | 17:15 - 18:00 |
 | Break                             |                                                                            |
 | Demo presentation                 | Zoom        | 02:15 - 02:30 | 6:15 - 6:30  | 10:15 - 10:30 | 18:15 - 18:30 | 
-| Poster session A                  | gather.town | 02:30 - 04:00 | 6:30 - 8:00  | 10:30 - 12:00 | 18:30 - 20:00 | 
+| Poster session B                  | gather.town | 02:30 - 04:00 | 6:30 - 8:00  | 10:30 - 12:00 | 18:30 - 20:00 | 
 | Break                                                                                                          |
 | Keynote speaker 1 -- Anna Rogers  | Zoom        | 04:15 - 05:00 | 8:15 - 9:00  | 12:15 - 13:00 | 20:15 - 21:00 |
 
@@ -52,7 +52,7 @@ All plenary sessions will be held in zoom, where we will livestream the keynote 
 | Awards and closing remarks        | Zoom        | 10:00 - 10:20 | 14:00 - 14:20 | 18:00 - 18:20 | 22:00 - 22:20 |
 | Demo presentation - repeat        | Zoom        | 10:25 - 10:40 | 14:25 - 14:40 | 18:25 - 18:40 | 22:25 - 22:40 | 
 | Break                                                                                                        |
-| Poster session B                  | gather.town | 10:30 - 12:00 | 14:30 - 16:00 | 18:30 - 20:00 | 22:30 - 24:00 |
+| Poster session C                  | gather.town | 10:30 - 12:00 | 14:30 - 16:00 | 18:30 - 20:00 | 22:30 - 24:00 |
 
 ### Block A
 
