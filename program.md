@@ -1,12 +1,3 @@
-<script src="https://cdnjs.cloudfare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
-<script src="https://cdnjs.cloudfare.com/ajax/libs/moment-timezone/0.5.23/moment-timezone-with-data-2012-2022.min.js"></script>
-
-    <script>
-        function tf(s) {
-            var tzg = moment.tz.guess()
-            return moment.tz("2020-11-20 " + s, "America/Santo_Domingo").tz(tzg).format("hh:mm A z")
-        }
-    </script>
 
 [Main page](index.md)
 
@@ -17,7 +8,7 @@ Summary of the program (Time indications: Punta Cana)
 
 | Session                           | Time          | Location              |
 |---------------------------------------------------|                       |
-| Opening remarks                   | <span class="tm">4:00</span> - <span class="tm">4:15</span>   | Zoom                  |
+| Opening remarks                   | 4:00 - 4:15   | Zoom                  |
 | Keynote speaker 1 -- Anna Rogers  | 4:15 - 5:00   | Zoom                  |
 | Break                                             |                       |
 | Oral presentations 1              | 5:15 - 6:00   | Zoom                  |
@@ -212,9 +203,4 @@ Poster session 3 (block A)
 - _Weakly- and Semi-supervised Evidence Extraction_. Danish Pruthi, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton.
 - _On the Sub-Layer Functionalities of Transformer Decoder_ Yilin Yang, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee and Zhaopeng Tu.
 
-    <script>
-        var dates = document.getElementsByClassName("tm");
-        for (var i = 0; i < dates.length; i++) {
-            dates.item(i).innerHTML = tf(dates.item(i).innerHTML);
-        {
-    </script>
+
