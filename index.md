@@ -2,8 +2,6 @@
 
 The workshop will be collocated with EMNLP 2020.
 
-**News (Sept. 2): Test models for the shared task have been [announced](http://blackboxnlp.github.io/shared).**
-
 ## Outstandig paper awards
 Two BlackboxNLP 2020 papers were selected for the outstanding paper award:
 - _The EOS Decision and Length Extrapolation_. Benjamin Newman, John Hewitt, Percy Liang and Christopher D. Manning.
